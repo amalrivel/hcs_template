@@ -963,7 +963,7 @@ const App = () => {
                 <div
                   data-bs-toggle="collapse"
                   className="collapsed question"
-                  href="#faq1"
+                  // href="#faq1"
                 >
                   Non consectetur a erat nam at lectus urna duis?{" "}
                   <i className="bi bi-chevron-down icon-show"></i>
@@ -982,7 +982,7 @@ const App = () => {
               <li>
                 <div
                   data-bs-toggle="collapse"
-                  href="#faq2"
+                  // href="#faq2"
                   className="collapsed question"
                 >
                   Feugiat scelerisque varius morbi enim nunc faucibus a
@@ -1003,7 +1003,7 @@ const App = () => {
               <li>
                 <div
                   data-bs-toggle="collapse"
-                  href="#faq3"
+                  // href="#faq3"
                   className="collapsed question"
                 >
                   Dolor sit amet consectetur adipiscing elit pellentesque
@@ -1026,7 +1026,7 @@ const App = () => {
               <li>
                 <div
                   data-bs-toggle="collapse"
-                  href="#faq4"
+                  // href="#faq4"
                   className="collapsed question"
                 >
                   Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?{" "}
@@ -1047,7 +1047,7 @@ const App = () => {
               <li>
                 <div
                   data-bs-toggle="collapse"
-                  href="#faq5"
+                  // href="#faq5"
                   className="collapsed question"
                 >
                   Tempus quam pellentesque nec nam aliquam sem et tortor
@@ -1067,7 +1067,7 @@ const App = () => {
               <li>
                 <div
                   data-bs-toggle="collapse"
-                  href="#faq6"
+                  // href="#faq6"
                   className="collapsed question"
                 >
                   Tortor vitae purus faucibus ornare. Varius vel pharetra vel
